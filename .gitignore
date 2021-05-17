@@ -1,0 +1,6 @@
+*.csv
+*.json
+*.xlsx
+.idea
+venv
+
